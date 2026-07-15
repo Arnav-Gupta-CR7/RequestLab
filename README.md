@@ -47,19 +47,25 @@ Live link: https://reqlab.netlify.app/
 
 ```text
 RequestLab/
-│
-├── public/
+├── assets/
+├── node_modules/
 ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── services/
+│   ├── controllers/
+│   │   └── controller.js
+│   ├── middleware/
+│   │   └── middleware.js
+│   ├── public/
+│   │   └── index.html
+│   ├── routes/
+│   │   └── routes.js
 │   ├── utils/
-│   └── assets/
-│
+│   │   └── httpClient.js
+│   └── app.js
+├── .gitignore
+├── package-lock.json
 ├── package.json
 ├── README.md
-└── vite.config.js
+└── server.js
 ```
 
 ---
