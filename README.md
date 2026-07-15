@@ -2,6 +2,8 @@
 
 A modern and lightweight API testing workspace for developers to create, organize, and test REST APIs with an intuitive interface.
 
+Live link: https://reqlab.netlify.app/
+
 ![RequestLab Screenshot](./assets/screenshot.png)
 
 ## ✨ Features
@@ -177,7 +179,7 @@ This project is licensed under the **MIT License**.
 **Arnav Gupta**
 
 GitHub: https://github.com/Arnav-Gupta-CR7
-Live link: https://reqlab.netlify.app/
+
 
 ---
 
